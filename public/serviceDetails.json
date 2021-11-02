@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "Details": "Oral hygiene is the practice of keeping one's mouth clean and free of disease and other problems by regular brushing of the teeth and cleaning between the teeth. It is important that oral hygiene be carried out on a regular basis to enable prevention of dental disease and bad breath",
+        "name": "Dental",
+        "price": "$50",
+        "img": "https://i.ibb.co/ncRK8Hn/pexels-andrea-piacquadio-3779713.jpg"
+    },
+    {
+        "id": 2,
+        "Details": "Cardiology is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease, heart failure, valvular heart disease and electrophysiology",
+        "name": "Cardiology",
+        "price": "$100",
+        "img": "https://i.ibb.co/vLLGKjy/pexels-thirdman-7659564.jpg"
+    },
+    {
+        "id": 3,
+        "Details": "Paediatrics is the branch of medicine that involves the medical care of infants, children, and adolescents. The American Academy of Pediatrics recommends people seek pediatric care through the age of 21. In the United Kingdom, paediatrics covers patients until age 18",
+        "name": "Paediatrics",
+        "price": "$45",
+        "img": "https://i.ibb.co/cFBcDks/pexels-pavel-danilyuk-5998450.jpg"
+    },
+    {
+        "id": 4,
+        "Details": "Medical diagnosis is the process of determining which disease or condition explains a person's symptoms and signs. It is most often referred to as diagnosis with the medical context being implicit",
+        "name": "Diagonostics",
+        "price": "$62",
+        "img": "https://i.ibb.co/B4p0prq/pexels-pavel-danilyuk-6809658.jpg"
+    },
+    {
+        "id": 5,
+        "Details": "Surgery is an invasive technique with the fundamental principle of physical intervention on organs/organ systems/tissues for diagnostic or therapeutic reasons. As a general rule, a procedure is considered surgical when it involves cutting of a person's tissues or closure of a previously sustained wound. ",
+        "name": "Surgery",
+        "price": "$100",
+        "img": "https://i.ibb.co/gb0B0Nv/pexels-vidal-balielo-jr-3376799.jpg"
+    },
+    {
+        "id": 6,
+        "Details": "Massage therapy is the scientific manipulation of the soft tissues of the body, consisting primarily of manual (hands-on) techniques such as applying fixed or movable pressure, holding, and moving muscles and body tissues.",
+        "name": "Massage Therapy",
+        "price": "$30",
+        "img": "https://i.ibb.co/mcNJ0Dc/pexels-karolina-grabowska-4506214.jpg"
+    }
+]

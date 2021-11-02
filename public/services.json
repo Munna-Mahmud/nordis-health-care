@@ -1,0 +1,45 @@
+[
+
+    {
+        "id": 1,
+        "name": "Dental",
+        "price": "$50",
+        "description": "Orthodontics deal with positioning of misaligned teeth, improvement of dental occlusion and facial aesthetics.",
+        "img": "https://i.ibb.co/ncRK8Hn/pexels-andrea-piacquadio-3779713.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cardiology",
+        "price": "$100",
+        "description": "The timely detection of cardiovascular diseases allows them to be effectively treated",
+        "img": "https://i.ibb.co/vLLGKjy/pexels-thirdman-7659564.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Pediatrics",
+        "price": "$45",
+        "description": "Our pediatricians uses high-precision diagnostic methods and modern methods of treatment",
+        "img": "https://i.ibb.co/cFBcDks/pexels-pavel-danilyuk-5998450.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Diagonostics",
+        "price": "$62",
+        "description": "In our Diagonostics you can pass a wide range of tests that allow us to put the right diagnosis",
+        "img": "https://i.ibb.co/B4p0prq/pexels-pavel-danilyuk-6809658.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Surgery",
+        "price": "$100",
+        "description": "Surgery We have a world class doctor's for that and they are so experienced, And we also have the digital macins",
+        "img": "https://i.ibb.co/gb0B0Nv/pexels-vidal-balielo-jr-3376799.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Massage Therapy",
+        "price": "$30",
+        "description": "If you have any complaints about your state of health, start with our therapist and he will help you.",
+        "img": "https://i.ibb.co/mcNJ0Dc/pexels-karolina-grabowska-4506214.jpg"
+    }
+]

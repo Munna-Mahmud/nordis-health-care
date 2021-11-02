@@ -1,0 +1,29 @@
+.service-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 15px;
+    overflow: hidden;
+}
+.services-body{
+background-color: rgb(253, 253, 253);
+width: 100%;
+}
+   
+.service-container .services-text{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:oblique;
+}
+
+
+/*  responsive */
+@media only screen and (max-width:688px) {
+    .service-container{
+        grid-template-columns: repeat(1, 1fr);
+      
+    }
+}
+@media only screen and (min-width:689px) and (max-width: 991px){
+    .service-container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
